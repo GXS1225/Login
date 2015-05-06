@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Login</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="user">账号</string>
+    <string name="pass">密码</string>
+    <string name="hint_user">Emil 或 手机号</string>
+    <string name="hint_pass">123</string>
+    <string name="no_user">没有账号？</string>
+    <string name="new_user">注册</string>
+    <string name="_Intent_fruits">跳转</string>
+    
+
+</resources>
